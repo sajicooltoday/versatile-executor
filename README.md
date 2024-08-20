@@ -1,4 +1,4 @@
-# versatile-executor  (KNOW OPEN SOURCED)
+# versatile-executor  (NOW OPEN SOURCED)
 # HUGE WARNING: I WOULD STILL ADVISE A ALT WITH VPN JUST INCASE.
 soon to be open source, roblox executor with full encryption.
 i am not responsible what you do with this or what you execute.
